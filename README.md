@@ -1,6 +1,6 @@
 # Pizza-AI-SAM-Model
 
-### Segmenting or masking the required image using Sengment Anything Model released by Meta AI. 
+#### Segmenting or masking the required image using the Segment Anything Model released by Meta AI. 
 
 ### Segment Anything (SAM):
 a new AI model from Meta AI that can "cut out" any object, in any image, with a single click
